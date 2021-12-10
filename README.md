@@ -12,7 +12,7 @@ chrome --user-agent="pan.baidu.com" http://pan.bai7du.com
 ## 其它方法
 1.从win命令行启动
 ```
-chrome.exe --user-agent="pan.baidu.com" http://pan.bai7du.com
+start chrome.exe --user-agent="pan.baidu.com" http://pan.bai7du.com
 ```
 
 2.从mac终端启动
