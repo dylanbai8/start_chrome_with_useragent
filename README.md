@@ -27,6 +27,9 @@ open -a Google\ Chrome --user-agent="pan.baidu.com" http://pan.bai7du.com
 右键--属性--目标-- 在chrome.exe后面加一个空格 然后加 --user-agent="pan.baidu.com"
 ```
 
-
+## 暴力一点 win命令行
+```
+taskkill /im chrome.exe /f 1>nul 2>nul && start chrome.exe --user-agent="pan.baidu.com" http://pan.bai7du.com
+```
 
 ![image](https://user-images.githubusercontent.com/26950227/145552226-06f4f75a-462e-4378-b027-1b61407ba9eb.png)
