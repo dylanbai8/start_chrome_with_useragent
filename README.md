@@ -5,19 +5,19 @@
 1.如已启动需先关闭chrome
 2.按 win+r 快捷键 直接运行：
 
-chrome --user-agent="pan.baidu.com" http://pan.bai7du.com
+chrome --user-agent="pan.baidu.com" http://pan.okduang.com
 
 ```
 
 ## 其它方法
 1.从win命令行启动
 ```
-start chrome.exe --user-agent="pan.baidu.com" http://pan.bai7du.com
+start chrome.exe --user-agent="pan.baidu.com" http://pan.okduang.com
 ```
 
 2.从mac终端启动
 ```
-open -a Google\ Chrome --user-agent="pan.baidu.com" http://pan.bai7du.com
+open -a Google\ Chrome --user-agent="pan.baidu.com" http://pan.okduang.com
 ```
 
 3.从win桌面快捷方式启动
@@ -29,7 +29,7 @@ open -a Google\ Chrome --user-agent="pan.baidu.com" http://pan.bai7du.com
 
 ## 暴力一点 win命令行
 ```
-taskkill /im chrome.exe /f 1>nul 2>nul && start chrome.exe --user-agent="pan.baidu.com" http://pan.bai7du.com
+taskkill /im chrome.exe /f 1>nul 2>nul && start chrome.exe --user-agent="pan.baidu.com" http://pan.okduang.com
 ```
 
 ![image](https://user-images.githubusercontent.com/26950227/145552226-06f4f75a-462e-4378-b027-1b61407ba9eb.png)
