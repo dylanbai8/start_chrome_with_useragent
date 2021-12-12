@@ -3,7 +3,7 @@
 
 ::设置 UserAgent 和 默认网站（可选）
 set user_agent=pan.baidu.com
-set your_website=http://pan.okduang.com
+set your_website=https://pan.okduang.com
 
 
 title -- CHROME启动器 --
